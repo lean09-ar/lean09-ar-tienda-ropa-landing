@@ -123,4 +123,16 @@ nav a {
 
 body {
     font-family: 'Poppins', sans-serif;
+
+}
+.btn {
+    padding: 12px 30px;
+    background: #25D366;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 600;
+    transition: 0.3s;
+    display: inline-block;
+    margin: 0 auto;
 }
